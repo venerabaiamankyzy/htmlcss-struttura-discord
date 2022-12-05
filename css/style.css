@@ -46,7 +46,8 @@ padding: 5px;
 .section-blue {
   background-color: #00008B;
   height: 350px;
-  padding: 25px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .container-pink {
@@ -59,14 +60,18 @@ padding: 5px;
 
 .section-white {
   background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+ .container-bluepink {
+  background-color: white;
   max-width: 900px;
+  margin: auto;
   display: flex;
   margin: auto;
   border: 2px dashed black;
-  margin-top: 20px;
-  margin-bottom: 20px;
-
-}
+  
+ }
 
 .column-dodger-blue {
   background-color: #1D90FF;
@@ -79,33 +84,10 @@ padding: 5px;
   width: 350px;
   height: 350px;
 }
-
-
-
-
-
-
 
 .section-gray {
-  background-color: #999696;
-  max-width: 900px;
-  display: flex;
-  margin: auto;
-  border: 2px dashed black;
-  margin-top: 20px;
-  margin-bottom: 20px;
-
-}
-
-.column-dodger-blue {
-  background-color: #1D90FF;
-  flex-grow: 1;
-  height: 350px;
-}
-
-.column-pink {
-  background-color: #FFC1CB;
-  width: 350px;
-  height: 350px;
+  background-color: #D3D3D3;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
